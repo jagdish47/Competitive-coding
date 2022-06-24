@@ -12,6 +12,7 @@ int main(){
     cin>>lname;
 
     cout<<"Your name is " + fname + " " + lname;
+    cout<<"Learning githut is enjoying...";
 
     return 0;
 }
