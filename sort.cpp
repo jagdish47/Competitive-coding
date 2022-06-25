@@ -1,3 +1,4 @@
+//Shotcut way to sort an array
 #include <iostream>
 #include <algorithm>
 using namespace std;
